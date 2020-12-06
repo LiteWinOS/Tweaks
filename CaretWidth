@@ -1,0 +1,2 @@
+ HKEY_CURRENT_USER\Control Panel\Desktop
+  3. In the right pane of the Desktop key, double click/tap on the CaretWidth DWORD to modify it. (see screenshot above)
