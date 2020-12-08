@@ -10,3 +10,7 @@ lots of changes to the OS check on virual os before applying
 
 
 https://i.imgur.com/uv4tlLO.png
+
+
+powershell2cmd.reg
+Run as TI
